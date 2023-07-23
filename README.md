@@ -1,16 +1,41 @@
-### Hi there I'm Hamid Heidari 👋
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Hamid Heidari.</h2>
+</div>
 
-<!--
-**HamidHeidariSoureshjani/HamidHeidariSoureshjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 &nbsp; About Me :
+I'm a Front-End Software Engineer by passion, I also work in the field of artificial intelligence and machine learning
+- I’m working as consultant and building web applications.
+- Authoring and blogging about emerging technologies.
+- Share knowledge through meetups.
 
-Here are some ideas to get you started:
+#### :fire: My Stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+</div>
+
+<a href="https://github.com/HamidHeidariSoureshjani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHeidariSoureshjani&theme=light&count_private=true&layout=compact" width="205" alt="HamidHeidariSoureshjani's most used languages" />
+</a>
+<a href="https://github.com/HamidHeidariSoureshjani">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamidHeidariSoureshjani&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="HamidHeidariSoureshjani's github stats"/>
+</a>
+
+#### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
