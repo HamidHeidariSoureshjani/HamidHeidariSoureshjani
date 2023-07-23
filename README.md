@@ -1,4 +1,4 @@
-### Hi there Im Hamid Heidari 👋
+### Hi there I'm Hamid Heidari 👋
 
 <!--
 **HamidHeidariSoureshjani/HamidHeidariSoureshjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
