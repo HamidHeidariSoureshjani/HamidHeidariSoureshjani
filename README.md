@@ -40,3 +40,7 @@ I'm a Front-End Software Engineer by passion, I also work in the field of artifi
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 <br>
+
+![Snake animation](https://github.com/HamidHeidariSoureshjani/Snake/blob/main/github-contribution-grid-snake.svg)
+
+<br>
