@@ -11,10 +11,10 @@ I'm a Front-End Software Engineer by passion, I also work in the field of artifi
 #### :fire: My Stats :
 
 <a href="https://github.com/HamidHeidariSoureshjani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHeidariSoureshjani&theme=light&count_private=true&layout=compact" width="205" alt="HamidHeidariSoureshjani's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHeidariSoureshjani&theme=dark&count_private=true&layout=compact" width="205" alt="HamidHeidariSoureshjani's most used languages" />
 </a>
 <a href="https://github.com/HamidHeidariSoureshjani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamidHeidariSoureshjani&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="HamidHeidariSoureshjani's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamidHeidariSoureshjani&show_icons=true&theme=dark&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="300" alt="HamidHeidariSoureshjani's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
