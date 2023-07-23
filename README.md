@@ -3,7 +3,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I'm a Front-End Software Engineer by passion, I also work in the field of artificial intelligence and machine learning
+I'm a Front-End developer by passion, I also work in the field of Artificial Intelligence and Machine Learning.
 - I’m working as consultant and building web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups.
