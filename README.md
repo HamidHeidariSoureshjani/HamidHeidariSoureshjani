@@ -10,10 +10,6 @@ I'm a Front-End Software Engineer by passion, I also work in the field of artifi
 
 #### :fire: My Stats :
 
-<div>
-  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
-</div>
-
 <a href="https://github.com/HamidHeidariSoureshjani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHeidariSoureshjani&theme=light&count_private=true&layout=compact" width="205" alt="HamidHeidariSoureshjani's most used languages" />
 </a>
