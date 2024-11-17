@@ -3,11 +3,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I'm a Front-End developer by passion, I also work in the field of Artificial Intelligence and Machine Learning.
-- I’m working as consultant and building web applications.
-- Authoring and blogging about emerging technologies.
-- Share knowledge through meetups.
-
+I am a software engineer and I have been working as a freelancer for 5 years. Over the past two years, I have also dedicated myself to studying and working in the field of artificial intelligence, cultivating a strong skill set in this dynamic area. I am highly motivated and capable of tackling complex challenges independently. My passion for cutting-edge technologies drives my continuous learning and application of artificial intelligence solutions to real-world problems.
 #### :fire: My Stats :
 
 <a href="https://github.com/HamidHeidariSoureshjani">
